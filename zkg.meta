@@ -2,4 +2,4 @@
 description = A package with no tags but branches, depending on pkg-f
 script_dir = scripts
 depends =
-    https://github.com/ckreibich/pkg-f *
+    https://github.com/ckreibich/pkg-f branch=release/1.0
